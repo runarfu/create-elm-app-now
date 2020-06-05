@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "fantalias",
+  "name": "create-elm-app-now",
   "builds": [
     {
       "src": "package.json",
