@@ -2403,10 +2403,10 @@ create-ecdh@^4.0.0:
     bn.js "^4.1.0"
     elliptic "^6.0.0"
 
-create-elm-app@^5.11.0:
-  version "5.11.0"
-  resolved "https://registry.yarnpkg.com/create-elm-app/-/create-elm-app-5.11.0.tgz#c2e45c2187f0588c6de7f7dbbd10916266a7a3af"
-  integrity sha512-/pjN2k8P9ZIHN2uMqwLdo7m2xFozVOnIRl5nG2BKdJLpBa0OCnITSkf6snQiMK1PIWmVWIFgaR+2nS7bC5PjPg==
+create-elm-app@^5.12.0:
+  version "5.12.0"
+  resolved "https://registry.yarnpkg.com/create-elm-app/-/create-elm-app-5.12.0.tgz#7105c6738bf2578728d3dd00f82947bf75ab95c9"
+  integrity sha512-tnf55Ld3QgUq688sO5mQNRMFDokmypr1wwkgdB3E2Jq8otG1pADvWlLNlWzFLna9krNzg8vS/7j2lzz6BMce9w==
   dependencies:
     "@babel/cli" "7.12.1"
     "@babel/core" "7.12.3"
@@ -2455,7 +2455,7 @@ create-elm-app@^5.11.0:
     webpack "4.44.2"
     webpack-dev-server "3.11.0"
     webpack-manifest-plugin "2.2.0"
-    whatwg-fetch "3.4.1"
+    whatwg-fetch "3.5.0"
     workbox-webpack-plugin "4.3.1"
 
 create-hash@^1.1.0, create-hash@^1.1.2:
@@ -7755,10 +7755,10 @@ websocket-extensions@>=0.1.1:
   resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
   integrity sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==
 
-whatwg-fetch@3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/whatwg-fetch/-/whatwg-fetch-3.4.1.tgz#e5f871572d6879663fa5674c8f833f15a8425ab3"
-  integrity sha512-sofZVzE1wKwO+EYPbWfiwzaKovWiZXf4coEzjGP9b2GBVgQRLQUZ2QcuPpQExGDAW5GItpEm6Tl4OU5mywnAoQ==
+whatwg-fetch@3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/whatwg-fetch/-/whatwg-fetch-3.5.0.tgz#605a2cd0a7146e5db141e29d1c62ab84c0c4c868"
+  integrity sha512-jXkLtsR42xhXg7akoDKvKWE40eJeI+2KZqcp2h3NsOrRnDvtWX36KcKl30dy+hxECivdk2BVUHVNrPtoMBUx6A==
 
 which-module@^1.0.0:
   version "1.0.0"
